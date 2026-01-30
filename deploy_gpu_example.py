@@ -121,7 +121,7 @@ server_data = response.json()
 SERVER_ID = server_data["id"]
 
 
-# # create the nic
+# # create the nic - ONLY USE TO CREATE A SECOND NIC
 # CREATE_NIC_ENDPOINT = f"{BASE}/datacenters/{DATACENTER_UUID}/servers/{SERVER_ID}/nics"
 
 # NIC_PAYLOAD = {
