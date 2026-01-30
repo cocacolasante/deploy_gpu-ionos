@@ -109,7 +109,6 @@ python delete_gpu.py
 
 **IMPORTANT**:
 - Never commit files with real API tokens or passwords to version control
-- The `deploy_gpu.py` file contains actual credentials and should be added to `.gitignore`
 - Use `deploy_gpu_example.py` as a template with placeholder values
 - Rotate your API tokens regularly
 - Use strong passwords for VM console access
