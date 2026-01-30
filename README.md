@@ -46,7 +46,7 @@ You can either modify `deploy_gpu_example.py` or create your own copy. Update th
 - **Line 8**: `API_TOKEN_VALUE` - Your IONOS Cloud API token
 - **Line 86**: `imagePassword` - Console password for the VM
 - **Line 88**: `sshKeys` - Your public SSH key
-- **Line 88**: change deploy_gpu_example.py to deploy_gpu.py
+- **FILE NAME**: change deploy_gpu_example.py to deploy_gpu.py
 
 #### Get Data Center UUID
 1. Log into IONOS DCD (Data Center Designer)
