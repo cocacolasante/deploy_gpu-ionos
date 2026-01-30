@@ -22,7 +22,6 @@ This project provides Python scripts to:
 
 ```
 deploy_gpu/
-├── deploy_gpu.py           # Main deployment script with hardcoded values
 ├── deploy_gpu_example.py   # Template script with placeholder values
 ├── delete_gpu_example.py   # Script to delete GPU server instances
 └── README.md              # This file
